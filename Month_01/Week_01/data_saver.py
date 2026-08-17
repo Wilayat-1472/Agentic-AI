@@ -1,5 +1,5 @@
 import json
-
+     
 def save_notes(notes):
     try:
         with open("notes.json", "w") as f:
